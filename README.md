@@ -1,2 +1,21 @@
-# Workspace-Launcher
-This python script will prompt you with a UI created with tkinter once you run it. in the ui you will be able to select buttons and make buttons that are associated with your machines apps (you can choose which apps) so that way once you click a button the script will open all the apps associated with the button you make providing a faster start!
+# Workspace Launcher
+
+A Python-based desktop workspace launcher that opens grouped applications with one click.
+
+## ⚠️ Status
+
+🚧 Work In Progress  
+Currently testing multi-app launching behavior (Discord issue pending).
+
+## Features (so far)
+
+- Tkinter GUI
+- Launches Opera GX
+- Basic multi-app launch structure
+
+## Planned Features
+
+- Discord launch fix
+- App group configuration (JSON)
+- Multiple workspace profiles
+- Optional auto-start on boot
